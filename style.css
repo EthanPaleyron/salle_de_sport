@@ -16,7 +16,7 @@ body {
   background-color: #00738D;
 }
 
-.header {
+header {
   margin-bottom: 60px;
   background-image: url("img/fond.jpg");
   background-size: cover;
@@ -24,7 +24,7 @@ body {
   height: 100vh;
 }
 
-.nav {
+nav {
   font-family: 'Norican', cursive;
   padding: 20px;
   background-color: #0000004c;
