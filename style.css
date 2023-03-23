@@ -41,6 +41,8 @@ nav {
 
 .img_liens {
   background-color: #FFFFFF;
+  color: white;
+  padding: 2px;
   border-radius: 50px;
   margin: 0 80px;
   width: 25px;
@@ -136,7 +138,7 @@ nav {
 
 .section_temoignages {
   padding: 80px;
-  box-shadow: inset 300px -50px 200px -20px rgba(0,0,0,0.55);
+  background: linear-gradient(45.5deg,#1f1f1f,#00738d00);
 }
 
 .position_temoignages {
